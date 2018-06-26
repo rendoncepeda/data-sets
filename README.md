@@ -20,5 +20,11 @@ Links to interesting data sets
 ## Gobierno de Mexico
 * Datos Abiertos de Mexico: https://datos.gob.mx 
 
+## Instituto Nacional de Estadistica y Geografia
+* Banco de Informacion: http://www.inegi.org.mx/biinegi/
+
+## Centro de Investigacion y Docencia Economicas
+* Base de Datos: http://biblioteca.cide.edu/aBases.html
+
 ## University of California, Irvine
 * Machine Learning Reposigory: http://archive.ics.uci.edu/ml/datasets.html
