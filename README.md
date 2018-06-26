@@ -17,5 +17,8 @@ Links to interesting data sets
 ## Inter-American Development Bank
 * Data Catalog: https://data.iadb.org/DataCatalog/Dataset 
 
+## Gobierno de Mexico
+* Datos Abiertos de Mexico: https://datos.gob.mx 
+
 ## University of California, Irvine
 * Machine Learning Reposigory: http://archive.ics.uci.edu/ml/datasets.html
