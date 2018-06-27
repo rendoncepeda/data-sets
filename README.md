@@ -28,3 +28,6 @@ Links to interesting data sets
 
 ## University of California, Irvine
 * Machine Learning Reposigory: http://archive.ics.uci.edu/ml/datasets.html
+
+## Our World in Data
+* Blog: https://ourworldindata.org
