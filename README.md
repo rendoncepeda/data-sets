@@ -19,6 +19,7 @@ Links to interesting data sets
 
 ## Gobierno de Mexico
 * Datos Abiertos de Mexico: https://datos.gob.mx 
+* Objetivos de Desarrollo Sostenible: http://agenda2030.mx
 
 ## Instituto Nacional de Estadistica y Geografia
 * Banco de Informacion: http://www.inegi.org.mx/biinegi/
