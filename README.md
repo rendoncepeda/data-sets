@@ -17,6 +17,9 @@ Links to interesting data sets
 ## Inter-American Development Bank
 * Data Catalog: https://data.iadb.org/DataCatalog/Dataset 
 
+## Partnership for Resilience & Preparedeness
+* Explore: https://prepdata.org
+
 ## Gobierno de Mexico
 * Datos Abiertos de Mexico: https://datos.gob.mx 
 * Objetivos de Desarrollo Sostenible: http://agenda2030.mx
